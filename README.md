@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @iltifatibad
+- 👀 I’m interested in Full - Stack Dev.
+- 🌱 I’m currently learning Go
+- 📫 How to reach me : iltifatibad@gmail.com
+- ⚡ Fun fact: Btw I Use Arch
