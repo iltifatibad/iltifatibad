@@ -1,7 +1,7 @@
 Hi 👋 My name is Iltifat Ibadzade
 =================================
 
-Software Engineer, Electronic Engineering, Cyber Security
+Software Engineer, Electronic Engineer, Cyber Security
 ---------------------------------------------------------
 
 I'm Iltifat Ibadzade and I'm 19 . I started learning programming when I was 10 years old . Currently, I know Python, JavaScript ( NodeJS, ReactJS, VueJS ) , HTML, CSS, Rust, C++, Lua, Arduino, SQL , SQLite3 , LibSql , MySQL , MongoDB . I am interested in electronics at an intermediate level ( Since 2021 ) . I improve myself more on the Rust programming language, I know other languages at a medium-high level . At the same time, I am currently interested in Cyber Security ( Since 2022 ) and 3D design . I've mostly developed mine on Ubuntu and Debian based systems ( Since 2018 )I'm Iltifat Ibadzade and I'm 19 . I started learning programming when I was 10 years old . Currently, I know Python, JavaScript ( NodeJS, ReactJS, VueJS ) , HTML, CSS, Rust, C++, Lua, Arduino, SQL , SQLite3 , LibSql , MySQL , MongoDB . I am interested in electronics at an intermediate level ( Since 2021 ) . I improve myself more on the Rust programming language, I know other languages at a medium-high level . At the same time, I am currently interested in Cyber Security ( Since 2022 ) and 3D design . I've mostly developed mine on Ubuntu and Debian based systems ( Since 2018 )
